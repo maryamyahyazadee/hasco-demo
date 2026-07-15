@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 40" role="img" aria-label="Saint-Gobain">
+  <circle cx="14" cy="20" r="10" fill="none" stroke="#0c0d0f" stroke-width="2"/>
+  <path d="M9 20h10M14 15v10" stroke="#0c0d0f" stroke-width="1.5"/>
+  <text x="32" y="26" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#0c0d0f" letter-spacing="0.5">SAINT-GOBAIN</text>
+</svg>
